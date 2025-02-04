@@ -1,4 +1,5 @@
 #include <stdint.h>
+#include <stdio.h>
 
 #ifndef _BMP_H_
 #define _BMP_H_
